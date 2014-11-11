@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415730488 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/Archivos/main.cpp
+	<iostream>
+	<fstream>
+
